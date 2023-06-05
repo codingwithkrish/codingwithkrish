@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Gupta</h1>
 <h3 align="center">I am an android and Flutter developer and have been working in this interesting profession for about 2 long years and have become able to extract immense success through it . Even I have worked as an App developer in few companies and had done some freelancing projects.</h3>
-<img align = "right" alt="Krish Gupta" width="400" src="https://avatars.githubusercontent.com/u/87133705?v=4">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithkrish&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithkrish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_krishgupta" target="blank"><img src="https://img.shields.io/twitter/follow/_krishgupta?logo=twitter&style=for-the-badge" alt="_krishgupta" /></a> </p>
