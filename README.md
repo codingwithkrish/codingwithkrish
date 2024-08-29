@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_krishgupta" target="blank"><img src="https://img.shields.io/twitter/follow/_krishgupta?logo=twitter&style=for-the-badge" alt="_krishgupta" /></a> </p>
 
-- 🔭 I’m currently working in [Manastik as a Software Intern](https://manastik.com/)
+- 🔭 I’m currently working in [Synkrama as a Software Developer Intern](https://manastik.com/)
 
 - 👨‍💻 All of my projects are available at [https://krishgupta.com/](https://krishgupta.com/)
 
